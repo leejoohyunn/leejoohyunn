@@ -16,48 +16,48 @@
 ---
 
 ## 🧩 Top Projects
-- 🇰🇷 **Actor–Critic 라스트마일 최적화** — 시간창·차량 용량·우선순위 제약을 통합한 경로 정책 학습. 
-  🇺🇸 **Actor–Critic Last-Mile Optimization** — learns routing policies with time windows, vehicle capacity, and priority constraints. 
-- 🇰🇷 **FDPF + XAI 자율주행** — 물리 기반 모듈(FDPF)로 안전 기준을 규정하고, XAI로 판단 근거를 가시화. 
-  🇺🇸 **FDPF + XAI for AVs** — encodes safety with a physics-based FDPF module and visualizes rationales via XAI. 
-- 🇰🇷 **공개데이터 RAG 리스크 모델** — 멀티소스 검색+추론으로 공급망 리스크를 근거 중심으로 추정.  
-  🇺🇸 **Public-Data RAG Risk Model** — estimates supply-chain risk with multi-source retrieval and grounded reasoning. 
+- 🇰🇷 **Actor–Critic 라스트마일 최적화** — 시간창·차량 용량·우선순위 제약을 통합한 경로 정책 학습.
+- 🇺🇸 **Actor–Critic Last-Mile Optimization** — learns routing policies with time windows, vehicle capacity, and priority constraints. 
+- 🇰🇷 **FDPF + XAI 자율주행** — 물리 기반 모듈(FDPF)로 안전 기준을 규정하고, XAI로 판단 근거를 가시화.
+- 🇺🇸 **FDPF + XAI for AVs** — encodes safety with a physics-based FDPF module and visualizes rationales via XAI. 
+- 🇰🇷 **공개데이터 RAG 리스크 모델** — 멀티소스 검색+추론으로 공급망 리스크를 근거 중심으로 추정.
+- 🇺🇸 **Public-Data RAG Risk Model** — estimates supply-chain risk with multi-source retrieval and grounded reasoning. 
 
 <!-- 🇰🇷 각 프로젝트 README 첫머리에 **문제–방법–검증(데이터/시뮬레이션/케이스)** 3줄 요약과 **실행 방법**을 적어주세요.  🇺🇸 In each repo README, start with a 3-line **Problem–Method–Validation** summary plus **how to run**.-->
 
 ---
 
 ## 📚 Publications & Talks
-- 🇰🇷 **후두암 음성 분석** 연구(1저자) 및 의료/교육 도메인 **LLM·RAG** 공동연구 발표 경험. 
-  🇺🇸 **Voice-based laryngeal cancer** study (first author) and **LLM/RAG** co-authored work in medical/education domains. 
-- 🇰🇷 학부 연구·랩 활동에서 **재현 가능한 파이프라인**과 **감사 가능한 로깅**을 표준화. 
-  🇺🇸 Standardized **reproducible pipelines** and **auditable logging** across undergrad research and lab projects. 
+- 🇰🇷 **후두암 음성 분석** 연구(1저자) 및 의료/교육 도메인 **LLM·RAG** 공동연구 발표 경험.
+- 🇺🇸 **Voice-based laryngeal cancer** study (first author) and **LLM/RAG** co-authored work in medical/education domains. 
+- 🇰🇷 학부 연구·랩 활동에서 **재현 가능한 파이프라인**과 **감사 가능한 로깅**을 표준화.
+- 🇺🇸 Standardized **reproducible pipelines** and **auditable logging** across undergrad research and lab projects. 
 
 ---
 
 ## 🛠️ Skills
-- 🇰🇷 **ML/RL/OR**: 정책 학습, 분포 이동 대응, 제약 최적화(시간창·용량·페널티)  
-  🇺🇸 **ML/RL/OR**: policy learning, distribution shift handling, constraint optimization (time-window, capacity, penalties)
-- 🇰🇷 **LLM/RAG**: 검색-증거 결합 프롬팅, 평가·거버넌스, 데이터 파이프라인  
-  🇺🇸 **LLM/RAG**: retrieval-augmented prompting, evaluation/governance, data pipelines
-- 🇰🇷 **CV/Audio/Med**: 음성·영상 전처리, 모델링, 실험 설계  
-  🇺🇸 **CV/Audio/Med**: preprocessing, modeling, and experimental design for voice and imaging
-- 🇰🇷 **툴체인**: Python, PyTorch/TF, CUDA, Weights & Biases, Docker, Git/GitHub Actions  
-  🇺🇸 **Tooling**: Python, PyTorch/TF, CUDA, Weights & Biases, Docker, Git/GitHub Actions
+- 🇰🇷 **ML/RL/OR**: 정책 학습, 분포 이동 대응, 제약 최적화(시간창·용량·페널티)
+- 🇺🇸 **ML/RL/OR**: policy learning, distribution shift handling, constraint optimization (time-window, capacity, penalties)
+- 🇰🇷 **LLM/RAG**: 검색-증거 결합 프롬팅, 평가·거버넌스, 데이터 파이프라인
+- 🇺🇸 **LLM/RAG**: retrieval-augmented prompting, evaluation/governance, data pipelines
+- 🇰🇷 **CV/Audio/Med**: 음성·영상 전처리, 모델링, 실험 설계
+- 🇺🇸 **CV/Audio/Med**: preprocessing, modeling, and experimental design for voice and imaging
+- 🇰🇷 **툴체인**: Python, PyTorch/TF, CUDA, Weights & Biases, Docker, Git/GitHub Actions
+- 🇺🇸 **Tooling**: Python, PyTorch/TF, CUDA, Weights & Biases, Docker, Git/GitHub Actions
 
 ---
 
 ## 🎓 Background
-- 🇰🇷 홍익대학교 **산업데이터공학** 전공, **AI Application Lab** 연구조교(프로덕션형 파이프라인 경험).  
-  🇺🇸 B.S. in **Industrial Data Engineering** (Hongik Univ.); **RA** at an AI Application Lab (production-oriented pipelines).
-- 🇰🇷 관심 분야: **신뢰·설명 가능한 의사결정**, **분포 이동**, **데이터-투-디시전**.  
-  🇺🇸 Interests: **trustworthy & explainable decisions**, **distribution shift**, **data-to-decision workflows**.
+- 🇰🇷 홍익대학교 **산업데이터공학** 전공, **AI Application Lab** 연구조교(프로덕션형 파이프라인 경험).
+- 🇺🇸 B.S. in **Industrial Data Engineering** (Hongik Univ.); **RA** at an AI Application Lab (production-oriented pipelines).
+- 🇰🇷 관심 분야: **신뢰·설명 가능한 의사결정**, **분포 이동**, **데이터-투-디시전**.
+- 🇺🇸 Interests: **trustworthy & explainable decisions**, **distribution shift**, **data-to-decision workflows**.
 
 ---
 
 ## 📫 Contact
-- 🇰🇷 ✉️ melodyjhlee03@gmail.com · GitHub Issues/Discussions 환영  
-  🇺🇸 ✉️ melodyjhlee03@gmail.com · Open to Issues/Discussions
+- 🇰🇷 ✉️ melodyjhlee03@gmail.com · GitHub Issues/Discussions 환영
+- 🇺🇸 ✉️ melodyjhlee03@gmail.com · Open to Issues/Discussions
 
 ---
 
