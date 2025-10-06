@@ -23,16 +23,15 @@
 - 🇰🇷 **공개데이터 RAG 리스크 모델** — 멀티소스 검색+추론으로 공급망 리스크를 근거 중심으로 추정. [[Code]](#) [[Report]](#)  
   🇺🇸 **Public-Data RAG Risk Model** — estimates supply-chain risk with multi-source retrieval and grounded reasoning. [[Code]](#) [[Report]](#)
 
-> 🇰🇷 각 프로젝트 README 첫머리에 **문제–방법–검증(데이터/시뮬레이션/케이스)** 3줄 요약과 **실행 방법**을 적어주세요.  
-> 🇺🇸 In each repo README, start with a 3-line **Problem–Method–Validation** summary plus **how to run**.
+<!--> 🇰🇷 각 프로젝트 README 첫머리에 **문제–방법–검증(데이터/시뮬레이션/케이스)** 3줄 요약과 **실행 방법**을 적어주세요.  🇺🇸 In each repo README, start with a 3-line **Problem–Method–Validation** summary plus **how to run**.-->
 
 ---
 
 ## 📚 Publications & Talks
-- 🇰🇷 **후두암 음성 분석** 연구(1저자) 및 의료/교육 도메인 **LLM·RAG** 공동연구 발표 경험. [[Abstract]](#) [[Slides]](#)  
-  🇺🇸 **Voice-based laryngeal cancer** study (first author) and **LLM/RAG** co-authored work in medical/education domains. [[Abstract]](#) [[Slides]](#)
-- 🇰🇷 학부 연구·랩 활동에서 **재현 가능한 파이프라인**과 **감사 가능한 로깅**을 표준화. [[Notes]](#)  
-  🇺🇸 Standardized **reproducible pipelines** and **auditable logging** across undergrad research and lab projects. [[Notes]](#)
+- 🇰🇷 **후두암 음성 분석** 연구(1저자) 및 의료/교육 도메인 **LLM·RAG** 공동연구 발표 경험. 
+  🇺🇸 **Voice-based laryngeal cancer** study (first author) and **LLM/RAG** co-authored work in medical/education domains. 
+- 🇰🇷 학부 연구·랩 활동에서 **재현 가능한 파이프라인**과 **감사 가능한 로깅**을 표준화. 
+  🇺🇸 Standardized **reproducible pipelines** and **auditable logging** across undergrad research and lab projects. 
 
 ---
 
@@ -62,8 +61,7 @@
 
 ---
 
-<!-- Optional: 깃허브 위젯은 과도하게 넣지 말 것; 아래 1~2개만 선택적으로 사용 -->
-<!--
-![JooHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact)
--->
+
+![Joo Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejoohyunn&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejoohyunn&layout=compact&langs_count=6)
+
