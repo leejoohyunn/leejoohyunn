@@ -16,12 +16,12 @@
 ---
 
 ## 🧩 Top Projects
-- 🇰🇷 **Actor–Critic 라스트마일 최적화** — 시간창·차량 용량·우선순위 제약을 통합한 경로 정책 학습. [[Code]](#) [[Slide]](#)  
-  🇺🇸 **Actor–Critic Last-Mile Optimization** — learns routing policies with time windows, vehicle capacity, and priority constraints. [[Code]](#) [[Slide]](#)
-- 🇰🇷 **FDPF + XAI 자율주행** — 물리 기반 모듈(FDPF)로 안전 기준을 규정하고, XAI로 판단 근거를 가시화. [[Code]](#) [[Poster]](#)  
-  🇺🇸 **FDPF + XAI for AVs** — encodes safety with a physics-based FDPF module and visualizes rationales via XAI. [[Code]](#) [[Poster]](#)
-- 🇰🇷 **공개데이터 RAG 리스크 모델** — 멀티소스 검색+추론으로 공급망 리스크를 근거 중심으로 추정. [[Code]](#) [[Report]](#)  
-  🇺🇸 **Public-Data RAG Risk Model** — estimates supply-chain risk with multi-source retrieval and grounded reasoning. [[Code]](#) [[Report]](#)
+- 🇰🇷 **Actor–Critic 라스트마일 최적화** — 시간창·차량 용량·우선순위 제약을 통합한 경로 정책 학습. 
+  🇺🇸 **Actor–Critic Last-Mile Optimization** — learns routing policies with time windows, vehicle capacity, and priority constraints. 
+- 🇰🇷 **FDPF + XAI 자율주행** — 물리 기반 모듈(FDPF)로 안전 기준을 규정하고, XAI로 판단 근거를 가시화. 
+  🇺🇸 **FDPF + XAI for AVs** — encodes safety with a physics-based FDPF module and visualizes rationales via XAI. 
+- 🇰🇷 **공개데이터 RAG 리스크 모델** — 멀티소스 검색+추론으로 공급망 리스크를 근거 중심으로 추정.  
+  🇺🇸 **Public-Data RAG Risk Model** — estimates supply-chain risk with multi-source retrieval and grounded reasoning. 
 
 <!--> 🇰🇷 각 프로젝트 README 첫머리에 **문제–방법–검증(데이터/시뮬레이션/케이스)** 3줄 요약과 **실행 방법**을 적어주세요.  🇺🇸 In each repo README, start with a 3-line **Problem–Method–Validation** summary plus **how to run**.-->
 
