@@ -3,7 +3,6 @@
 > 🇰🇷 산업데이터공학 기반으로 **ML + 최적화**를 연결해 **운영 의사결정**을 고도화합니다.  
 > 🇺🇸 I connect **ML + optimization** to build **operations-grade decision systems** grounded in Industrial Data Engineering.
 
----
 
 <!--## 🔭 Now
 - 🇰🇷 **시간창·용량 제약**을 반영한 **라스트마일 RL**로 실제 운용 가능한 정책을 학습합니다.  
@@ -17,7 +16,7 @@
 
 ## 🧩 Top Projects
 - 🇰🇷 **Actor–Critic 라스트마일 최적화** — 시간창·차량 용량·우선순위 제약을 통합한 경로 정책 학습.
-- 🇺🇸 **Actor–Critic Last-Mile Optimization** — learns routing policies with time windows, vehicle capacity, and priority constraints. 
+🇺🇸 **Actor–Critic Last-Mile Optimization** — learns routing policies with time windows, vehicle capacity, and priority constraints. 
 - 🇰🇷 **FDPF + XAI 자율주행** — 물리 기반 모듈(FDPF)로 안전 기준을 규정하고, XAI로 판단 근거를 가시화.
 - 🇺🇸 **FDPF + XAI for AVs** — encodes safety with a physics-based FDPF module and visualizes rationales via XAI. 
 - 🇰🇷 **공개데이터 RAG 리스크 모델** — 멀티소스 검색+추론으로 공급망 리스크를 근거 중심으로 추정.
