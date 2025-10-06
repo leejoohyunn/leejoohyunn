@@ -59,16 +59,16 @@
 ---
 
 ## 🎓 Background
-> 🇰🇷 홍익대학교 **산업데이터공학** 전공, **AI Application Lab** 연구조교(프로덕션형 파이프라인 경험).
-> 🇺🇸 B.S. in **Industrial Data Engineering** (Hongik Univ.); **RA** at an AI Application Lab (production-oriented pipelines).
-> 🇰🇷 관심 분야: **신뢰·설명 가능한 의사결정**, **분포 이동**, **데이터-투-디시전**.
-> 🇺🇸 Interests: **trustworthy & explainable decisions**, **distribution shift**, **data-to-decision workflows**.
+🇰🇷 홍익대학교 **산업데이터공학** 전공, **AI Application Lab** 연구조교(프로덕션형 파이프라인 경험).
+🇺🇸 B.S. in **Industrial Data Engineering** (Hongik Univ.); **RA** at an AI Application Lab (production-oriented pipelines).
+🇰🇷 관심 분야: **신뢰·설명 가능한 의사결정**, **분포 이동**, **데이터-투-디시전**.
+🇺🇸 Interests: **trustworthy & explainable decisions**, **distribution shift**, **data-to-decision workflows**.
 
 ---
 
 ## 📫 Contact
-> 🇰🇷 ✉️ melodyjhlee03@gmail.com · GitHub Issues/Discussions 환영
-> 🇺🇸 ✉️ melodyjhlee03@gmail.com · Open to Issues/Discussions
+🇰🇷 ✉️ melodyjhlee03@gmail.com · GitHub Issues/Discussions 환영
+🇺🇸 ✉️ melodyjhlee03@gmail.com · Open to Issues/Discussions
 
 ---
 
