@@ -23,7 +23,7 @@
 - 🇰🇷 **공개데이터 RAG 리스크 모델** — 멀티소스 검색+추론으로 공급망 리스크를 근거 중심으로 추정.  
   🇺🇸 **Public-Data RAG Risk Model** — estimates supply-chain risk with multi-source retrieval and grounded reasoning. 
 
-<!--> 🇰🇷 각 프로젝트 README 첫머리에 **문제–방법–검증(데이터/시뮬레이션/케이스)** 3줄 요약과 **실행 방법**을 적어주세요.  🇺🇸 In each repo README, start with a 3-line **Problem–Method–Validation** summary plus **how to run**.-->
+<!-- 🇰🇷 각 프로젝트 README 첫머리에 **문제–방법–검증(데이터/시뮬레이션/케이스)** 3줄 요약과 **실행 방법**을 적어주세요.  🇺🇸 In each repo README, start with a 3-line **Problem–Method–Validation** summary plus **how to run**.-->
 
 ---
 
