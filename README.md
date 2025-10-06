@@ -28,10 +28,22 @@
 ---
 
 ## 📚 Publications & Talks
-- 🇰🇷 **후두암 음성 분석** 연구(1저자) 및 의료/교육 도메인 **LLM·RAG** 공동연구 발표 경험.
-- 🇺🇸 **Voice-based laryngeal cancer** study (first author) and **LLM/RAG** co-authored work in medical/education domains. 
-- 🇰🇷 학부 연구·랩 활동에서 **재현 가능한 파이프라인**과 **감사 가능한 로깅**을 표준화.
-- 🇺🇸 Standardized **reproducible pipelines** and **auditable logging** across undergrad research and lab projects. 
+
+- 🇰🇷 **다양한 음소 기반 후두암 진단 인공지능 모델 개발** — (1저자) 한국CDE학회지(Korean Journal of Computational Design and Engineering) **투고**. 
+- 🇺🇸 **Development of an AI Model for Laryngeal Cancer Diagnosis Based on Diverse Phonemes** — (first author) **submitted** to the Korean Journal of Computational Design and Engineering. 
+
+- 🇰🇷 **RAG을 활용한 의약품 금기 정확화** — (4저자) 대한의료정보학회(KOSMI) **투고**; RAG 파이프라인 설계·평가. 
+- 🇺🇸 **Leveraging Retrieval-Augmented Generation for Accurate Drug Contraindication** — (4th author) **submitted** to KOSMI; RAG pipeline design & evaluation. 
+
+- 🇰🇷 **대수기하 구성 과제 자동채점·피드백 LLM 시스템** — (3저자) 대한의료정보학회(KOSMI) **투고**. 
+- 🇺🇸 **Personalized Auto-Grading & Feedback for Constructive Geometry Tasks Using LLMs** — (3rd author) **submitted** to KOSMI. 
+
+- 🇰🇷 **대수기하 구성 과제 자동채점·피드백 LLM 시스템** — (3저자) **IEEE Access 투고**. 
+- 🇺🇸 **Personalized Auto-Grading & Feedback for Constructive Geometry Tasks Using LLMs** — (3rd author) **submitted** to **IEEE Access**. 
+
+- 🇰🇷 **인공지능 기반 의약 안전정보 최적화 연구** — (UROP 연구, 공저) **원고 준비/내부 보고서 단계**. 
+- 🇺🇸 **Optimization & Application of AI-Based Drug Safety Information** — (UROP project, co-author) **manuscript in preparation / internal report**. 
+
 
 ---
 
