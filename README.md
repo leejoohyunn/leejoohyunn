@@ -7,6 +7,10 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 ---
 
 ## 🧩 Top Projects
+- **Public-Data RAG Risk Model (Excellency Award)**  
+  🇰🇷 멀티소스 검색·추론으로 공급망 리스크를 근거 중심으로 추정합니다.  
+  🇺🇸 Estimates supply-chain risk with multi-source retrieval and grounded reasoning.
+  
 - **Actor–Critic Last-Mile Optimization**  
   🇰🇷 시간창·차량 용량·우선순위 제약을 통합해 경로 정책을 학습합니다.  
   🇺🇸 Learns routing policies with time windows, vehicle capacity, and priority constraints.
@@ -14,10 +18,6 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 - **FDPF × XAI for AVs**  
   🇰🇷 물리 기반 FDPF로 안전 기준을 정량화하고 XAI로 판단 근거를 가시화합니다.  
   🇺🇸 Encodes safety via a physics-based FDPF module and surfaces rationale with XAI.
-
-- **Public-Data RAG Risk Model (Excellency Award)**  
-  🇰🇷 멀티소스 검색·추론으로 공급망 리스크를 근거 중심으로 추정합니다.  
-  🇺🇸 Estimates supply-chain risk with multi-source retrieval and grounded reasoning.
 
 ---
 
