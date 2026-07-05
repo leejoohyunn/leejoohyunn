@@ -41,6 +41,7 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 ---
 
 ##  Background
+- **M.S., Industrial Engineering, Data Science**, Texas A&M University  
 - **B.S., Industrial Data Engineering**, Hongik University  
   **RA**, AI Application Lab (production-oriented pipelines)
 - **Interests**: trustworthy & explainable decisions, distribution shift, data-to-decision workflows  
