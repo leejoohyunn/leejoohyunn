@@ -8,8 +8,8 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 
 ## 🧩 Top Projects
 - **Public-Data RAG Risk Model (Excellency Award)**  
-  🇰🇷 멀티소스 검색·추론으로 공급망 리스크를 근거 중심으로 추정합니다.  
-  🇺🇸 Estimates supply-chain risk with multi-source retrieval and grounded reasoning.
+   멀티소스 검색·추론으로 공급망 리스크를 근거 중심으로 추정합니다.  
+   Estimates supply-chain risk with multi-source retrieval and grounded reasoning.
   
 - **Actor–Critic Last-Mile Optimization**  
   🇰🇷 시간창·차량 용량·우선순위 제약을 통합해 경로 정책을 학습합니다.  
