@@ -6,7 +6,7 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 
 ---
 
-## 🧩 Top Projects
+##  Top Projects
 - **Public-Data RAG Risk Model (Excellency Award)**  
    멀티소스 검색·추론으로 공급망 리스크를 근거 중심으로 추정합니다.  
    Estimates supply-chain risk with multi-source retrieval and grounded reasoning.
@@ -21,7 +21,7 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 
 ---
 
-## 📚 Publications & Talks
+##  Publications & Talks
 - **Development of an AI Model for Laryngeal Cancer Diagnosis Based on Diverse Phonemes** — *first author*, **submitted** to Korean Journal of Computational Design and Engineering.  
   ( 다양한 음소 기반 후두암 진단 인공지능 모델 개발 — 1저자, 투고)
 
@@ -36,7 +36,7 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - **ML / RL / OR**: policy learning, distribution shift, constrained optimization (time windows, capacity, penalties)  
   ( 정책 학습, 분포 이동 대응, 제약 최적화)
 - **LLM / RAG**: retrieval-augmented prompting, evaluation & governance, data pipelines  
@@ -47,7 +47,7 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 
 ---
 
-## 🎓 Background
+##  Background
 - **B.S., Industrial Data Engineering**, Hongik University  
   **RA**, AI Application Lab (production-oriented pipelines)
 - **Interests**: trustworthy & explainable decisions, distribution shift, data-to-decision workflows  
@@ -55,7 +55,7 @@ ML × Optimization으로 <b>운영 의사결정</b>을 고도화합니다 · I b
 
 ---
 
-## 📫 Contact
+##  Contact
 - ✉️ melodyjhlee03@gmail.com · Open to GitHub Issues/Discussions
 
 ---
